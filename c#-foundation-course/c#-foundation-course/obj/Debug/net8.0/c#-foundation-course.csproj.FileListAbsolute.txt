@@ -1,0 +1,14 @@
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\bin\Debug\net8.0\c#-foundation-course.exe
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\bin\Debug\net8.0\c#-foundation-course.deps.json
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\bin\Debug\net8.0\c#-foundation-course.runtimeconfig.json
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\bin\Debug\net8.0\c#-foundation-course.dll
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\bin\Debug\net8.0\c#-foundation-course.pdb
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\obj\Debug\net8.0\c#-foundation-course.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\obj\Debug\net8.0\c#-foundation-course.AssemblyInfoInputs.cache
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\obj\Debug\net8.0\c#-foundation-course.AssemblyInfo.cs
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\obj\Debug\net8.0\c#-foundation-course.csproj.CoreCompileInputs.cache
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\obj\Debug\net8.0\c#-foundation-course.dll
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\obj\Debug\net8.0\refint\c#-foundation-course.dll
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\obj\Debug\net8.0\c#-foundation-course.pdb
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\obj\Debug\net8.0\c#-foundation-course.genruntimeconfig.cache
+D:\repositories\net-tips-and-more\c#-foundation-course\c#-foundation-course\obj\Debug\net8.0\ref\c#-foundation-course.dll
