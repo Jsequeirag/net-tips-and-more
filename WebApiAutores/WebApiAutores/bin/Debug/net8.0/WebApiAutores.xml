@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiAutores</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiAutores.Controllers.V1.AutoresController.Delete(System.Int32)">
+             <summary>
+            borra un autor 
+             </summary>
+             <param name="id">Id del autor</param>
+             <returns></returns>
+        </member>
+        <member name="T:WebApiAutores.Migrations.Initial">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.Initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApiAutores.Migrations.Comnentarios">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.Comnentarios.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.Comnentarios.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.Comnentarios.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApiAutores.Migrations.AutoresLibros">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.AutoresLibros.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.AutoresLibros.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.AutoresLibros.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApiAutores.Migrations.FechaPublicacionLibro">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.FechaPublicacionLibro.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.FechaPublicacionLibro.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.FechaPublicacionLibro.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApiAutores.Migrations.SistemaUsuarios">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.SistemaUsuarios.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.SistemaUsuarios.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.SistemaUsuarios.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApiAutores.Migrations.ComentarioUsuario">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.ComentarioUsuario.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.ComentarioUsuario.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebApiAutores.Migrations.ComentarioUsuario.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:WebApiAutores.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:WebApiAutores.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:WebApiAutores.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

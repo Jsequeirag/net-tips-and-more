@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositories\\net-tips-and-more\\WebApiAutores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D67F36CE-72EB-4DE6-81C0-BBAADD33CCD8}|WebApiaAutores.Tests\\WebApiaAutores.Tests.csproj|d:\\repositories\\net-tips-and-more\\webapiautores\\webapiaautores.tests\\pruebasunitarias\\rootcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67F36CE-72EB-4DE6-81C0-BBAADD33CCD8}|WebApiaAutores.Tests\\WebApiaAutores.Tests.csproj|solutionrelative:webapiaautores.tests\\pruebasunitarias\\rootcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67F36CE-72EB-4DE6-81C0-BBAADD33CCD8}|WebApiaAutores.Tests\\WebApiaAutores.Tests.csproj|d:\\repositories\\net-tips-and-more\\webapiautores\\webapiaautores.tests\\mocks\\authorizationservicesuccessmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67F36CE-72EB-4DE6-81C0-BBAADD33CCD8}|WebApiaAutores.Tests\\WebApiaAutores.Tests.csproj|solutionrelative:webapiaautores.tests\\mocks\\authorizationservicesuccessmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67F36CE-72EB-4DE6-81C0-BBAADD33CCD8}|WebApiaAutores.Tests\\WebApiaAutores.Tests.csproj|d:\\repositories\\net-tips-and-more\\webapiautores\\webapiaautores.tests\\pruebasunitarias\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67F36CE-72EB-4DE6-81C0-BBAADD33CCD8}|WebApiaAutores.Tests\\WebApiaAutores.Tests.csproj|solutionrelative:webapiaautores.tests\\pruebasunitarias\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RootControllerTests.cs",
+              "DocumentMoniker": "D:\\repositories\\net-tips-and-more\\WebApiAutores\\WebApiaAutores.Tests\\PruebasUnitarias\\RootControllerTests.cs",
+              "RelativeDocumentMoniker": "WebApiaAutores.Tests\\PruebasUnitarias\\RootControllerTests.cs",
+              "ToolTip": "D:\\repositories\\net-tips-and-more\\WebApiAutores\\WebApiaAutores.Tests\\PruebasUnitarias\\RootControllerTests.cs",
+              "RelativeToolTip": "WebApiaAutores.Tests\\PruebasUnitarias\\RootControllerTests.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAjwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T06:29:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationServiceSuccessMock.cs",
+              "DocumentMoniker": "D:\\repositories\\net-tips-and-more\\WebApiAutores\\WebApiaAutores.Tests\\Mocks\\AuthorizationServiceSuccessMock.cs",
+              "RelativeDocumentMoniker": "WebApiaAutores.Tests\\Mocks\\AuthorizationServiceSuccessMock.cs",
+              "ToolTip": "D:\\repositories\\net-tips-and-more\\WebApiAutores\\WebApiaAutores.Tests\\Mocks\\AuthorizationServiceSuccessMock.cs",
+              "RelativeToolTip": "WebApiaAutores.Tests\\Mocks\\AuthorizationServiceSuccessMock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T06:33:49.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\repositories\\net-tips-and-more\\WebApiAutores\\WebApiaAutores.Tests\\PruebasUnitarias\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "WebApiaAutores.Tests\\PruebasUnitarias\\UnitTest1.cs",
+              "ToolTip": "D:\\repositories\\net-tips-and-more\\WebApiAutores\\WebApiaAutores.Tests\\PruebasUnitarias\\UnitTest1.cs",
+              "RelativeToolTip": "WebApiaAutores.Tests\\PruebasUnitarias\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T06:29:43.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
